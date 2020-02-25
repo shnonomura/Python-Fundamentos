@@ -1,9 +1,7 @@
 # Python-Fundamentos
 Exercicios do Python Fundamentos - DataScience Academy
 
-:sparkles: **Cronograma de Programa de Estudos** :sparkles:
-
-[Cronograma do Programa de estudos - Python Fundamentos](https://www.datascienceacademy.com.br/path-player?courseid=python-fundamentos&unit=56fa023447d7ddf1938b456fUnit)
+:sparkles: **Cronograma de Programa de Estudos - Python Fundamentos** :sparkles:
 
 - [x] 1.Introdução
 - [x] 2.Variáveis, Tipos e Estruturas de Dados
